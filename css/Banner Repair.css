@@ -1,0 +1,507 @@
+/**** Banner Repair ***/
+.BannerRepair{
+	background:url('../images/bg1.jpg') no-repeat center 0px; 
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height:700px;
+
+	animation-name:animatebannerRepair ;
+    animation-direction:alternate;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+    animation-iteration-count:infinite ;
+	animation-play-state: running;
+	
+    animation-timing-function: step-start; 
+
+}
+
+.BannerRepair h3{
+	font-size: 2em;
+    color:#fff;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    text-transform: uppercase;
+    width: 45%;
+    margin: 9em 0 0;
+	padding: 1em .5em;
+    background:rgba(33, 33, 33, 0.85);
+}
+.BannerRepair h3 span{
+	display: block;
+    color:rgb(6, 96, 230);
+    margin: 1em 0 0 2em;
+	position:relative;
+}
+.BannerRepair h3 span:after{
+	content: '';
+    background: #fff;
+    height: 1px;
+    width: 25%;
+    position: absolute;
+    bottom: 45%;
+    left: 72%;
+}
+
+/*** End Repair ***/
+
+/*** Ventilation **/
+.BannerVentilation {
+	background:url('../images/bg1.jpg') no-repeat center 0px; 
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height:700px;
+
+	animation-name:animatebannerVentilation  ;
+    animation-direction:alternate;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+    animation-iteration-count:infinite ;
+	animation-play-state: running;
+	
+    animation-timing-function: step-start; 
+
+}
+
+.BannerVentilation  h3{
+	font-size: 2em;
+    color:#fff;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    text-transform: uppercase;
+    width: 45%;
+    margin: 9em 0 0;
+	padding: 1em .5em;
+    background:rgba(33, 33, 33, 0.85);
+}
+.BannerVentilation h3 span{
+	display: block;
+    color:rgb(6, 96, 230);
+    margin: 1em 0 0 2em;
+	position:relative;
+}
+.BannerVentilation h3 span:after{
+	content: '';
+    background: #fff;
+    height: 1px;
+    width: 25%;
+    position: absolute;
+    bottom: 45%;
+    left: 72%;
+}
+
+
+/*** End Ventilation ***/
+
+/*** Maintainance ***/
+.BannerMaintainance {
+	background:url('../images/bg1.jpg') no-repeat center 0px; 
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height:700px;
+
+	animation-name:animatebannerMaintainance;
+    animation-direction:alternate;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+    animation-iteration-count:infinite ;
+	animation-play-state: running;
+	
+    animation-timing-function: step-start; 
+
+}
+
+.BannerMaintainance h3{
+	font-size: 2em;
+    color:#fff;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    text-transform: uppercase;
+    width: 45%;
+    margin: 9em 0 0;
+	padding: 1em .5em;
+    background:rgba(33, 33, 33, 0.85);
+}
+.BannerMaintainance h3 span{
+	display: block;
+    color:rgb(6, 96, 230);
+    margin: 1em 0 0 2em;
+	position:relative;
+}
+.BannerMaintainance h3 span:after{
+	content: '';
+    background: #fff;
+    height: 1px;
+    width: 25%;
+    position: absolute;
+    bottom: 45%;
+    left: 72%;
+}
+
+
+/*** End Maintainance ***/
+
+/**** Installation **/
+.BannerInstallation {
+	background:url('../images/bg1.jpg') no-repeat center 0px; 
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height:700px;
+
+	animation-name:animatebannerInstallation;
+    animation-direction:alternate;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+    animation-iteration-count:infinite ;
+	animation-play-state: running;
+	
+    animation-timing-function: step-start; 
+
+}
+
+.BannerInstallation h3{
+	font-size: 2em;
+    color:#fff;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    text-transform: uppercase;
+    width: 45%;
+    margin: 9em 0 0;
+	padding: 1em .5em;
+    background:rgba(33, 33, 33, 0.85);
+}
+.BannerInstallation h3 span{
+	display: block;
+    color:rgb(6, 96, 230);
+    margin: 1em 0 0 2em;
+	position:relative;
+}
+.BannerInstallation h3 span:after{
+	content: '';
+    background: #fff;
+    height: 1px;
+    width: 25%;
+    position: absolute;
+    bottom: 45%;
+    left: 72%;
+}
+
+
+
+/**** End Installation ***/
+
+/***Start Animation For Repairs ***/
+/*** Change Picutures here****/
+@keyframes animatebannerRepair{
+    0%{
+        background: url('../images/ashkan-forouzani-ZWT7Iwar1es-unsplash1.jpg') no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    }
+    25%{
+        background: url('../images/carlos-lindner-53wcYH4IOig-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    } 50%{
+        background: url('../images/kira-porotikova-SSurHt-rAnc-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    } 75%{
+        background: url('../images/t1.jpg')no-repeat center 0px;
+        background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+       
+    }100%{
+        background: url('../images/danny-feng-_MoKCEyU4YE-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+   }
+}
+
+/***End Animation ****/
+
+/***Start Animation For Maintainance***/
+/*** Change Picutures here****/
+@keyframes animatebannerMaintainance{
+    0%{
+        background: url('../images/ashkan-forouzani-ZWT7Iwar1es-unsplash1.jpg') no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    }
+    25%{
+        background: url('../images/carlos-lindner-53wcYH4IOig-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    } 50%{
+        background: url('../images/kira-porotikova-SSurHt-rAnc-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    } 75%{
+        background: url('../images/t1.jpg')no-repeat center 0px;
+        background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+       
+    }100%{
+        background: url('../images/danny-feng-_MoKCEyU4YE-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+   }
+}
+
+/***End Animation ****/
+
+/***Start Animation For Installation***/
+/*** Change Picutures here****/
+@keyframes animatebannerInstallation{
+    0%{
+        background: url('../images/ashkan-forouzani-ZWT7Iwar1es-unsplash1.jpg') no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    }
+    25%{
+        background: url('../images/carlos-lindner-53wcYH4IOig-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    } 50%{
+        background: url('../images/kira-porotikova-SSurHt-rAnc-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    } 75%{
+        background: url('../images/t1.jpg')no-repeat center 0px;
+        background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+       
+    }100%{
+        background: url('../images/danny-feng-_MoKCEyU4YE-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+   }
+}
+
+/***End Animation ****/
+
+/***Start Animation For Ventilation***/
+/*** Change Picutures here****/
+@keyframes animatebannerVentilation{
+    0%{
+        background: url('../images/ashkan-forouzani-ZWT7Iwar1es-unsplash1.jpg') no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    }
+    25%{
+        background: url('../images/carlos-lindner-53wcYH4IOig-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    } 50%{
+        background: url('../images/kira-porotikova-SSurHt-rAnc-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+    } 75%{
+        background: url('../images/t1.jpg')no-repeat center 0px;
+        background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+       
+    }100%{
+        background: url('../images/danny-feng-_MoKCEyU4YE-unsplash.jpg')no-repeat center 0px;
+		background-size:cover;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		-ms-background-size:cover;
+		-webkit-transform: scale(1);
+		min-height:700px;
+   }
+}
+
+/***End Animation ****/
+
+/***Start Responsive *****/
+
+@media (max-width:1366px){
+
+
+.BannerRepair h3 , .BannerInstallation h3, .BannerMaintainance h3 , .BannerVentilation h3{
+	font-size: 1.8em;
+	width: 40%;
+	margin: 8em 0 0;
+	}
+.BannerRepair, .BannerInstallation , .BannerVentilation , .BannerMaintainance  {
+	min-height: 580px;
+	} 
+
+}
+@media (max-width:1080px){
+	 .BannerRepair, .BannerInstallation, .BannerMaintainance, .BannerVentilation   {
+		min-height: 500px;
+}
+}
+
+@media (max-width:991px){
+	
+.BannerRepair, .BannerInstallation , .BannerMaintainance , .BannerVentilation{
+		min-height: 455px;
+	}
+}
+
+@media (max-width:667px){
+.BannerRepair, .BannerInstallation , .BannerMaintainance , .BannerVentilation{
+		min-height: 425px;
+}
+.BannerRepair h3, .BannerInstallation h3, .BannerMaintainance h3 , .BannerVentilation h3 {
+		width: 55%;
+}
+@media (max-width:640px){
+.BannerRepair h3, .BannerInstallation h3 , .BannerMaintainance h3 ,.BannerVentilation h3 {
+		width: 50%;
+		font-size: 1.2em;
+	}
+.BannerRepair, .BannerInstallation , .BannerMaintainance , .BannerVentilation {
+		min-height: 355px;
+}
+}
+@media (max-width:480px){
+.BannerRepair h3, .BannerInstallation h3 , .BannerMaintainance h3, .BannerVentilation h3 {
+		width: 70%;
+	}
+
+}
+@media (max-width:414px){
+.BannerRepair h3, .BannerInstallation h3 , .BannerMaintainance h3 , .BannerVentilation h3{
+		width: 80%;
+	}
+}
+@media (max-width:384px){
+ .BannerRepair h3, .BannerInstallation h3 , .BannerMaintainance h3, .BannerVentilation h3 {
+		font-size: 1em;
+	}
+.BannerRepair, .BannerInstallation , .BannerMaintainance , .BannerVentilation {
+		min-height: 310px;
+	}
+}
+@media (max-width:320px){
+.BannerRepair h3, .BannerInstallation h3 , .BannerMaintainance h3 , .BannerVentilation h3{
+		min-height: 246px;
+	}
+}
+
+/*****End Responsive */
+

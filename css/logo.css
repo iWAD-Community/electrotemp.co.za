@@ -1,0 +1,75 @@
+/*/** LOGO*/
+
+.logoImage img{
+    margin-left: 30%;
+    margin-right: auto;
+
+}
+@media only screen and (max-width:1366px){
+    .logoImage img{
+        margin-left: 30%;
+        margin-right: auto;}
+    
+}
+@media only screen and (max-width:764px){
+    .logoImage img{
+        margin-left: 10%;
+        margin-right: auto;
+    
+}
+}
+
+@media only screen and (max-width:624px){
+    .logoImage img{
+        display: none;
+        
+    }
+    .logoImage{
+    background:url('../images/Electro\ temp\ air\ conditioning\ and\ refrigeration\ logo.png'); 
+    background-size:cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    -ms-background-size:cover;
+    min-height: 155px;
+    image-resolution: 300px;
+
+
+}
+}
+@media only screen and (max-width:598px){
+    .logoImage img{
+        display: none;
+        
+    }
+    .logoImage{
+    background:url('../images/Electro\ temp\ air\ conditioning\ and\ refrigeration\ logo.png'); 
+    background-size:cover;
+    background-position: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    min-height: 155px;
+    image-resolution: 300px;
+
+}
+    
+}
+
+@media only screen and (max-width:500px){
+    .logoImage img{
+        display: none;
+        
+    }
+    .logoImage{
+    background:url('../images/Electro\ temp\ air\ conditioning\ and\ refrigeration\ logo.png') no-repeat; 
+    background-size: contain ;
+    background-position: center;
+  
+}
+    
+}
+
+
+
+/***
+**/
